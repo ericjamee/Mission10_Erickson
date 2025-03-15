@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\mission10_erickson.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\mission10_erickson.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|c:\\users\\je7er\\onedrive - brigham young university\\desktop\\webdevhilton\\mission10_erickson\\backend\\fullstackfun\\fullstackfun\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A8A6F-DB67-4A3A-BF63-1ECC0AFA3358}|FullStackFun\\Mission10_Erickson.csproj|solutionrelative:fullstackfun\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Program.cs",
+              "RelativeDocumentMoniker": "FullStackFun\\Program.cs",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Program.cs",
+              "RelativeToolTip": "FullStackFun\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:06:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStackFun\\appsettings.json",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\appsettings.json",
+              "RelativeToolTip": "FullStackFun\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T06:06:00.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "FullStackFun\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Data\\BowlerDbContext.cs",
+              "RelativeToolTip": "FullStackFun\\Data\\BowlerDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:50:32.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "FullStackFun\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Data\\Bowler.cs",
+              "RelativeToolTip": "FullStackFun\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:45:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "FullStackFun\\Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "FullStackFun\\Controllers\\BowlerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:42:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FullStackFun\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FullStackFun\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T05:42:04.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mission10_Erickson",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Mission10_Erickson.csproj",
+              "RelativeDocumentMoniker": "FullStackFun\\Mission10_Erickson.csproj",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Mission10_Erickson.csproj",
+              "RelativeToolTip": "FullStackFun\\Mission10_Erickson.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T05:42:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "FullStackFun\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\je7er\\OneDrive - Brigham Young University\\Desktop\\WebDevHilton\\Mission10_Erickson\\backend\\FullStackFun\\FullStackFun\\Data\\Team.cs",
+              "RelativeToolTip": "FullStackFun\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:28:50.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
